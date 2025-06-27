@@ -1,4 +1,4 @@
-# project S6 - Super Retro Tic Tac Toe 
+#Super Retro Tic Tac Toe 
 
 
 
